@@ -1,0 +1,100 @@
+body {
+  background-color: #feeafa;
+}
+
+
+
+h5 {
+  font-family: Dongle, sans-serif;
+  color: #8e9aaf;
+}
+
+.testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: pink;
+}
+
+.container {
+    background-color: #cbc0d3;
+    padding: 5%;
+    margin-top: 50px;
+    width: 500%;
+    text-align: center;
+    box-shadow: 0 0 5px rgba(0, 0, 0, .2);
+    color: white;
+}
+
+
+.icon {
+  margin-bottom: 1.5rem;
+  color: #735d78;
+}
+
+.icon:hover {
+  color: #cbc0d3;
+}
+
+hr {
+  background-color: rgba(139, 69, 19);
+  border-top: 2px dashed #8c8b8b;
+}
+
+a {
+  color: white;
+  padding: 1em 1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.navbar {
+  background-color: #8e9aaf;
+}
+
+h3 {
+  font-weight: bolder;
+
+}
+p {
+  color: #8f8f8f;
+}
+
+#features {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.feature-box {
+  padding: 5%;
+}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+.registerbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+.registerbtn:hover {
+  opacity:1;
+}
+.signin {
+  background-color: #f1f1f1;
+  text-align: center;
+}
